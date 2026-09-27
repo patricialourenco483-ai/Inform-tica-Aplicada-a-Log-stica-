@@ -8,7 +8,8 @@ Descrição: A partir dos dados foram elaborados perguntas para análise, que fo
 <img width="1194" height="545" alt="image" src="https://github.com/user-attachments/assets/07b5033a-d64b-4ab9-b19b-ed79b45cfa01" />
 **Construção de um dashboard - Dados CNES** 
 A partir dos dados abertos extraídos dos relatórios do CNES, foram estruturadas tabelas no Power BI para a modelagem e exibição dos respectivos dashboards.
-<img width="597" height="338" alt="image" src="https://github.com/user-attachments/assets/3174faea-b13c-4ab9-9960-edd54547562f" />
+<img width="1116" height="626" alt="image" src="https://github.com/user-attachments/assets/db7d6e4d-ee17-4e67-ba52-f77aa233f4a9" />
+
 
 
 
@@ -16,5 +17,6 @@ A partir dos dados abertos extraídos dos relatórios do CNES, foram estruturada
 **Apresentação do Grupo - "Quem é Quem"**
 Apresentação do Grupo de forma lúdica, a interação possibilitou conhecer os colegas de classe.
 
-<img width="648" height="367" alt="image" src="https://github.com/user-attachments/assets/c3a0f21d-b8c6-4200-8937-4c0ea3674338" />
+<img width="1080" height="600" alt="image" src="https://github.com/user-attachments/assets/9d686bce-3df1-4a83-b359-b64997fbe579" />
+
 
