@@ -28,5 +28,8 @@
 Apresentação do Grupo de forma lúdica, a interação possibilitou conhecer os colegas de classe.
 
 #<img width="1080" height="600" alt="image" src="https://github.com/user-attachments/assets/9d686bce-3df1-4a83-b359-b64997fbe579" />
+Construção Indicador de Leitos SUS Existente São Paulo - Interligado com Regiões e Símbolo das Bandeiras. 
+<img width="394" height="593" alt="image" src="https://github.com/user-attachments/assets/2d227afa-0b15-45c0-8da1-750f4232ce88" />
+<img width="578" height="342" alt="image" src="https://github.com/user-attachments/assets/f52031e4-1d13-4473-8ede-ab167b6d0422" />
 
 
