@@ -31,5 +31,9 @@ Apresentação do Grupo de forma lúdica, a interação possibilitou conhecer os
 Construção Indicador de Leitos SUS Existente São Paulo - Interligado com Regiões e Símbolo das Bandeiras. 
 <img width="394" height="593" alt="image" src="https://github.com/user-attachments/assets/2d227afa-0b15-45c0-8da1-750f4232ce88" />
 <img width="578" height="342" alt="image" src="https://github.com/user-attachments/assets/f52031e4-1d13-4473-8ede-ab167b6d0422" />
+Coeficiente de Inclinação (Slope): 21.4420
+Intercepto (Bias): 44.2968 - Equação da reta: Receita = 21.4420 * Temperatura + (44.2968)
+<img width="643" height="380" alt="image" src="https://github.com/user-attachments/assets/2e26268f-2eab-45aa-93a0-3607164642b3" />
+
 
 
