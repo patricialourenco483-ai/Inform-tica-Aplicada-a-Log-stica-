@@ -44,3 +44,5 @@ Dados Horas de Estudos x Nota da Prova -
 Mais Horas de Estudos são associadas a Nota - a cada hora adicional estudo a nota do exame aumenta em média aproximadamente 1,63 pontos.
 <img width="1043" height="667" alt="image" src="https://github.com/user-attachments/assets/ca291cc0-3250-4ba5-ad3a-e73bf072ae7a" />
 
+Dados Horas de Estudos x Nota da Prova - Google Colab - O Modelos elaborados em Excel e no Google Colab são iguais.  
+<img width="957" height="676" alt="image" src="https://github.com/user-attachments/assets/6e2d21d1-b895-43ac-af83-8133d4507796" />
