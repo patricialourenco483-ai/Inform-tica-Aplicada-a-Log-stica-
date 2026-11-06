@@ -38,6 +38,8 @@ Construção Indicador de Leitos SUS Existente São Paulo - Interligado com Regi
 <img width="643" height="380" alt="image" src="https://github.com/user-attachments/assets/2e26268f-2eab-45aa-93a0-3607164642b3" />
 
 Dados Sobre Expectativa de Vida 
-<img width="1820" height="794" alt="image" src="https://github.com/user-attachments/assets/8d909ba7-d36f-4a1a-adf3-95913c0a044e" />
+Mais Horas de Estudos são associadas a Nota - a cada hora adicional estudo a nota do exame aumenta em média aproximadamente 1,63 pontos.
+<img width="865" height="500" alt="image" src="https://github.com/user-attachments/assets/7d3004d2-2457-4835-9e21-4e0aa39f078a" />
+
 
 
