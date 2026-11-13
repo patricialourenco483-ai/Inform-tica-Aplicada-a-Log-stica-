@@ -40,9 +40,13 @@ Construção Indicador de Leitos SUS Existente São Paulo - Interligado com Regi
 Dados Sobre Expectativa de Vida 
 <img width="865" height="500" alt="image" src="https://github.com/user-attachments/assets/7d3004d2-2457-4835-9e21-4e0aa39f078a" />
 
+<img width="591" height="366" alt="image" src="https://github.com/user-attachments/assets/e92a21ad-c025-4e7b-a431-0d3b8c24f803" />
+
+
 Dados Horas de Estudos x Nota da Prova - 
 Mais Horas de Estudos são associadas a Nota - a cada hora adicional estudo a nota do exame aumenta em média aproximadamente 1,63 pontos.
 <img width="1043" height="667" alt="image" src="https://github.com/user-attachments/assets/ca291cc0-3250-4ba5-ad3a-e73bf072ae7a" />
 
 Dados Horas de Estudos x Nota da Prova - Google Colab - O Modelos elaborados em Excel e no Google Colab são iguais.  
-<img width="957" height="676" alt="image" src="https://github.com/user-attachments/assets/6e2d21d1-b895-43ac-af83-8133d4507796" />
+<img width="979" height="606" alt="image" src="https://github.com/user-attachments/assets/5967a1d4-b921-4e04-9e02-a1f738db6da6" />
+
