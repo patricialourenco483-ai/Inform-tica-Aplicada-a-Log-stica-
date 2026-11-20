@@ -48,3 +48,4 @@ Dados Horas de Estudos x Nota da Prova - Google Colab - O Modelos elaborados em 
 
 
 <img width="1043" height="667" alt="image" src="https://github.com/user-attachments/assets/ca291cc0-3250-4ba5-ad3a-e73bf072ae7a" />
+<img width="1029" height="688" alt="image" src="https://github.com/user-attachments/assets/1e136e8e-b7c3-4090-a0bd-d2c93ae5b083" />
